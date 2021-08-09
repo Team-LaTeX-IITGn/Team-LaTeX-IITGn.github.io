@@ -7,7 +7,7 @@
 | Session 1   | Preamble | Environments and Reports  |  Tables|
 | Session 2   | Text Formatting | Symbols <br> <a href="http://detexify.kirelabs.org/classify.html">Symbol Detector</a> | Bibtex |
 | Session 3   |  Figures Resources | Maths |  Doubt Session   |
-| Extra Material : Presentations in LaTeX with Beamer| <a href = "https://www.overleaf.com/learn/latex/Beamer"> Beamer Resources</a>
+| Extra Material | <a href = "https://www.overleaf.com/learn/latex/Beamer"> Beamer Resources</a> | <a href = "https://mathpix.com/docs/snip/overview">Mathpix Resources</a>
 
 Link to the live document: <a href ="https://www.overleaf.com/read/rrbvxbjyzrkp"> Link </a>
 
