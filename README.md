@@ -9,7 +9,7 @@
 | Session 3   |  Figures Resources | Maths |  Doubt Session   |
 | Extra Material | <a href = "https://www.overleaf.com/learn/latex/Beamer"> Beamer Resources</a> | <a href = "https://mathpix.com/docs/snip/overview">Mathpix Resources</a>
 
-Link to the live document: <a href ="https://www.overleaf.com/read/rrbvxbjyzrkp"> Link </a>
+Link to the live document: <a href ="https://www.overleaf.com/read/jysghrchdshn"> Link </a>
 
 LaTeX Documentation : <a href = "https://www.overleaf.com/learn"> Link </a> 
 
