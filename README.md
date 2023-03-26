@@ -1,6 +1,6 @@
 
 
-# LaTeX Workshop 2021
+# LaTeX Workshop 2023
 
 | Session/Day | Day 1 | Day 2 | Day 3 |
 |-------------|------|-------|-------|
