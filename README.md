@@ -5,7 +5,7 @@
 | Session/Day | Day 1 | Day 2 | Day 3 |
 |-------------|------|-------|-------|
 | Session 1   | <a href="https://drive.google.com/file/d/1rdOPY9KTQPY1oJ0QRyyZgZPfFdfrVytK/view?usp=share_link">Preamble <br> Preamble .tex file | Environments and Reports  |  Tables|
-| Session 2   | Text Formatting | Symbols <br> <a href="http://detexify.kirelabs.org/classify.html">Symbol Detector</a> | Bibtex |
+| Session 2   | Text Formatting | Symbols | Bibtex |
 | Session 3   |  Figures Resources | Maths |  Doubt Session   |
 | Extra Material | <a href = "https://www.overleaf.com/learn/latex/Beamer"> Beamer Resources</a> | <a href = "https://mathpix.com/docs/snip/overview">Mathpix Resources</a>
 
