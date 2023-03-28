@@ -15,4 +15,7 @@ LaTeX Documentation : <a href = "https://www.overleaf.com/learn"> Link </a>
 
 LaTeX Cheat Sheet : <a href = "https://drive.google.com/file/d/1XkIUabiu3OJ_O2L4R0nsIOny0aG6fDmn/view?usp=sharing"> Check it out </a>
 
-Link to Game: <a href = "https://abhigyanmartin.github.io/Workshop/TeXnique/public/index.html"> Game </a> 
+Link to Day 1's game : <a href = "https://drive.google.com/file/d/1vdXQ7VYWvFBJ-RJWUXKI3sU99-10I1Xx/view"> Click to play </a>
+
+Link for Day 1 submission: <a href = "https://forms.gle/FtLQbtfdQNjwtpfi9"> Click to submit </a>
+  
