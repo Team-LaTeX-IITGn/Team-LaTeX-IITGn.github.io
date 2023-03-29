@@ -18,4 +18,10 @@ LaTeX Cheat Sheet : <a href = "https://drive.google.com/file/d/1XkIUabiu3OJ_O2L4
 Link to Day 1's game : <a href = "https://drive.google.com/file/d/1vdXQ7VYWvFBJ-RJWUXKI3sU99-10I1Xx/view"> Click to play </a>
 
 Link for Day 1 submission: <a href = "https://forms.gle/FtLQbtfdQNjwtpfi9"> Click to submit </a>
+
+Link to Day 2's game : <a href = "https://abhigyanmartin.github.io/Workshop/TeXnique/public/index.html"> Click to play </a>
+
+Put your highscore here: <a href = "https://forms.gle/MHpd9CWKT5GnR3FJ8"> Click to submit </a>
+
+
   
